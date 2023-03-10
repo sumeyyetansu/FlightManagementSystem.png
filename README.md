@@ -1,6 +1,6 @@
 # Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
--Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
+-Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.\n
 -Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
 -Uçaklar çalışır veya onarım durumunda olabilir.
 -Her uçuşun benzersiz kimliği, kalkacağı ve ineceği havaalanı, kalkış ve iniş saatleri vardır.
